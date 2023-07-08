@@ -68,4 +68,8 @@ a {
   margin: 10px;
   font-size: 1.5rem;
   font-weight: 400;
+} 
+
+person {
+  text-decoration:none;
 }
