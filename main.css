@@ -30,7 +30,8 @@ h1 {
   justify-content: center;
   margin-bottom: 10px;
   flex-direction: column;
-  max-width: 500px;
+  max-width: 75%;
+  width: 500px;;
   border: 1px solid #ccc;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin: 0 auto;
@@ -68,8 +69,4 @@ a {
   margin: 10px;
   font-size: 1.5rem;
   font-weight: 400;
-} 
-
-person {
-  text-decoration:none;
 }
